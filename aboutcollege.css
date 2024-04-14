@@ -1,0 +1,86 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+header {
+    padding: 1rem;
+    background-color: #ffffff;
+}
+header a {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+}
+header a:hover {
+    color: #ccc;
+}
+.nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+    background-color: #d91414;
+}
+.nav a {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1rem;
+    padding: 0.5rem;
+}
+.nav a:hover {
+    color: #ccc;
+    background-color: #b3151a;
+}
+
+
+h1 {
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: Left;
+    width: 40%;
+    margin: 0;
+}
+
+h2 {
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: Left;
+    color: #CB181E;
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+.ask-the-president
+{ background-color: #f9f9f9;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align:Left;
+    width: 40%;
+}
+
+
+.president-message {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: Left;
+    width: 40%;
+}
+
+.president-message h3 {
+    margin-top: 0;
+}
+footer{
+    background-color:#CB181E ;
+    color: #fff;
+    padding: 2mm;
+}
